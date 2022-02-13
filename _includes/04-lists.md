@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- I love making games
+- I love to make 3d stuff
+- I love computers
+  - Everyting about computers
+  - watching movies
