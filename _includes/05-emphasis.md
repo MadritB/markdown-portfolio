@@ -1,0 +1,3 @@
+- I love to program in __C__
+- I love to make games in __Unity__
+- I love to make _3D_ stuff in __Blender__
